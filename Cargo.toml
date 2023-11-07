@@ -1,0 +1,12 @@
+[package]
+name = "vecc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Xiao Jiang <showbufire@gmail.com>"]
+description = "a simple macro to create a vector of vector"
+keywords = ["macro", "vec"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
